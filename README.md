@@ -1,2 +1,2 @@
-# DEV_FrontEnd
-Trilha Formação FrontEnd
+# DevFullStack
+Trilha Formação Dev
